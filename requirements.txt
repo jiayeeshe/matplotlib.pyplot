@@ -1,4 +1,4 @@
 matplotlib
-
+pandas
 
 # Simply use command 'pip install -r requirements.txt' to install the required library in the terminal
