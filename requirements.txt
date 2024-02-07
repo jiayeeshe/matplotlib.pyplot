@@ -1,4 +1,5 @@
 matplotlib
 pandas
+ipympl
 
 # Simply use command 'pip install -r requirements.txt' to install the required library in the terminal
